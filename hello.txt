@@ -17,3 +17,5 @@ git은 뭔가 파일을 만들고 저장했다면
 
 3 . commit이 끝난 파일은 remote에 올려서 작업을 해주어야 한다.
 -> git push saver(내가 저장한 저장소 이용) master(처음 마스터 브랜치 이름.)
+
+to the best!
