@@ -1,1 +1,19 @@
 My first commit-test
+와우 최시ㅣㄴ기술
+
+
+작업을 하고 나면
+1 . 저장
+2 . git add (작업한 파일)
+3 . git commit -m "메세지"
+
+
+git은 뭔가 파일을 만들고 저장했다면
+1 . git add 하고 작업한 파일을 추가해줘야한다.
+-> git add (파일명)
+
+2 . 모든 추가가 완료되었다면 그 상태를 commit 해주어야 한다.
+-> git commit -m "메세지"
+
+3 . commit이 끝난 파일은 remote에 올려서 작업을 해주어야 한다.
+-> git push saver(내가 저장한 저장소 이용) master(처음 마스터 브랜치 이름.)
